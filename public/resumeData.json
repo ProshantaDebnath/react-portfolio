@@ -59,8 +59,12 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "Java",
         "level": "100%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "55%"
       },
       {
         "name": "CSS",
@@ -69,10 +73,6 @@
       {
         "name": "Git",
         "level": "60%"
-      },
-      {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
       },
       {
         "name": "HTML5",
