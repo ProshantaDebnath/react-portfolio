@@ -90,7 +90,7 @@
         "title": "Code Player",
         "category": "An online editor to get the output of HTML/CSS/JavaScript code.",
         "image": "code-player.png",
-        "url": "https://github.com/Ak-Shaw/code-player"
+        "url": "https://code-play.netlify.app/"
       }
     ]
   },
