@@ -36,6 +36,11 @@
         "name": "github",
         "url": "http://github.com/Ak-Shaw",
         "className": "fa fa-github"
+      },
+      {
+        "name": "stackoverflow",
+        "url": "https://stackoverflow.com/users/11622380/ayush-shaw",
+        "className": "fa fa-stackoverflow"
       }
     ]
   },
