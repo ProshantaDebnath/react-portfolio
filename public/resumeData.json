@@ -87,6 +87,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Amazon Clone",
+        "category": "A fully functional clone of Amazon",
+        "image": "amazon-clone-screenshot.png",
+        "url": "https://amazon-clone-z.netlify.app/"
+      },
+      {
         "title": "Code Player",
         "category": "An online editor to get the output of HTML/CSS/JavaScript code.",
         "image": "code-player.png",
