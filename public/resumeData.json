@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Ayush Kumar Shaw",
-    "occupation": "Student Developer",
+    "occupation": "Back-end Developer",
     "description": "Back-end Java developer, currently exploring React. #liveToCode",
     "image": "Ak-Shaw.PNG",
     "bio": "A. K. Shaw, having his roots in Java development, is immensely interested in the vast domains of software engineering and coding in general. Capable of writing APIs with industry best practices like JUnit, Mockito, MVCS layering, etc., he is not limited by his knowledge, rather he feels it needful to keep learning to stay up in his game. Shaw will be more than happy to contribute, for it'll help him grow. Hence the guy is always looking forward to creating a meaningful impact. ",
@@ -52,7 +52,19 @@
     "work": [
       {
         "company": "Crio.Do",
-        "title": "Student Developer",
+        "title": "Software Engineer (Content) - Intern",
+        "years": "November 2020 to January 2021",
+        "description": "Contributed instructional design for 6 projects and reviewed 20+ projects. Post that, initiated deployment of content in production."
+      },
+      {
+        "company": "Crio.Do",
+        "title": "Student Developer, Crio Launch Plus 2020 - Trainee",
+        "years": "April 2020 to August 2020",
+        "description": "Contributed to a scalable distributed back-end of a food ordering application and constructed APIs for a quiz application."
+      },
+      {
+        "company": "Crio.Do",
+        "title": "Student Developer, Crio Launch 2020 - Trainee",
         "years": "February 2020 to April 2020",
         "description": "During the apprenticeship, made contributions to these projects: a secure file-sharing service, a visual stock portfolio analyzer, and an online IDE."
       }
@@ -109,8 +121,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Ayush has been a really good friend and a code mentor of mine. He has helped me to see through code effectively.",
-        "user": "Md Shahid Mubashshir Mia"
+        "text": "Ayush and I worked together for over 6 months as student developers under Crio.Do. I thoroughly enjoyed working with Ayush and came to know him as a truly valuable asset to absolutely any team. \n\nHe is honest and incredibly hard-working.  Beyond that, he is an impressive problem solver who is always able to address complex issues with strategy and confidence. \n\nAlong with his undeniable talent,  Ayush has always been an absolute joy to work with.  He is a true team player and always manages to encourage positive discussions and bring the best out of other team members.",
+        "user": "Vinod Kumar Wagh"
+      },
+      {
+        "text": "Ayush is an enthusiastic engineer who is open to learning. Worked with him for 3 months and he is full of energy and a good coder.",
+        "user": "Mridula Sivanandan"
       }
     ]
   }
