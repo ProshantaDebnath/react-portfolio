@@ -105,6 +105,12 @@
         "url": "https://clone-5878d.web.app/"
       },
       {
+        "title": "Twitter Clone",
+        "category": "A semi functional clone of Twitter",
+        "image": "twitter-clone-screenshot.png",
+        "url": "https://twitter-clone-6056f.web.app/index.html"
+      },
+      {
         "title": "Code Player",
         "category": "An online editor to get the output of HTML/CSS/JavaScript code.",
         "image": "code-player.png",
