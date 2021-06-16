@@ -100,9 +100,15 @@
     "projects": [
       {
         "title": "Amazon Clone",
-        "category": "A fully functional clone of Amazon",
+        "category": "A semi functional clone of Amazon",
         "image": "amazon-clone-screenshot.png",
         "url": "https://clone-5878d.web.app/"
+      },
+      {
+        "title": "Discord Clone",
+        "category": "A semi functional clone of Discord",
+        "image": "discord-clone-screenshot.png",
+        "url": "https://discord-clone-bf2f3.web.app/index.html"
       },
       {
         "title": "Twitter Clone",
